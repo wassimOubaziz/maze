@@ -19,7 +19,7 @@ A React-based web application that generates random mazes and visualizes differe
 - Responsive design with a clean, modern interface
 
 ## Demo
-[Live Demo](https://wassim-maze.vercel.app/)
+[Live Demo](https://maze-sage-six.vercel.app/)
 
 ## Technologies Used
 
